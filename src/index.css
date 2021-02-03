@@ -21,8 +21,8 @@ h1 {
 }
 
 .board {
-  border: 1rem solid #ff0000;
-  background: #003cff;
+  border: 1rem solid #858585;
+  background: rgb(38, 38, 100);
   width: 500px;
   height: 500px;
   display: grid;
@@ -39,10 +39,10 @@ h1 {
 }
 
 .X {
-  color: rgb(247, 0, 255);
+  color: rgb(236, 3, 3);
 }
 .O {
-  color: rgb(0, 255, 55);
+  color: rgb(189, 189, 189);
 }
 
 .info-wrapper {

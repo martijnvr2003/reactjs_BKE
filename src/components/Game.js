@@ -39,7 +39,7 @@ const Game = () => {
 
   return (
     <>
-      <h1>React boter kaas en eieren</h1>
+      <h1>Giovanni & Martijn boter kaas en eieren</h1>
       <Board squares={history[stepNumber]} onClick={handleClick} />
       <div className="info-wrapper">
         <div>
